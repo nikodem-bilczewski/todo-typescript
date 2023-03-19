@@ -74,12 +74,12 @@ button:hover {
 }
 
 .gym {
-  color: darkblue;
+  color: red;
   list-style: circle;
 }
 
 .hobby {
-  color: darkgoldenrod;
+  color: purple;
 }
 
 .work {
